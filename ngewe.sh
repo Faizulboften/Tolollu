@@ -1,3 +1,14 @@
+clear
+echo $cyan "SEDANG MEMASANG TOOLSNYA"
+sleep 30
+clear
+echo $cyan "OTW MASUK KE TOOLSNYA"
+sleep 10
+clear
+echo $cyan " SUBSCRIBE YT HTC CTR GAMING"
+sleep 30
+clear
+sleep 2
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -8,19 +19,20 @@ ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 echo $purple "
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-
 ✔ FB : FAIZUL 📂
 ✔ Wa : 082271426251 📂
 ✔ SCRIP HACKING BY FAIZUL 📂
 ✔ YT : HTC CTR GAMING 📂
-
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● " 
 echo $cy "
 ━━━━━┫{⭕ MENU HACK UPDATE ⭕}┣━━━━━
  ▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● 
 [1] : 🔘 REPORT AKUN FACEBOOK 🔘
+       ------------------------
 [2] : 🔘 HACK TARGET CRACKED  🔘
+       ------------------------
 [3] : 🔘 SQL MAP              🔘
+       ------------------------
  ▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● 
  ┠
  ┗────[4] exit ✘"
