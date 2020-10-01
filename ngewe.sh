@@ -19,17 +19,17 @@ ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 echo $purple "
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-✔ FB : FAIZUL 📂
-✔ Wa : 082271426251 📂
-✔ SCRIP HACKING BY FAIZUL 📂
-✔ YT : HTC CTR GAMING 📂
+🔘 FB : FAIZUL ⭕
+🔘 Wa : 082271426251 ⭕
+🔘 SCRIP HACKING BY FAIZUL ⭕
+✔ YT : HTC CTR GAMING ⭕
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● " 
 echo $cy "
 ━━━━━┫{⭕ MENU HACK UPDATE ⭕}┣━━━━━
  ▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● 
 [1] : 🔘 REPORT AKUN FACEBOOK 🔘
        ------------------------
-[2] : 🔘 HACK TARGET CRACKED  🔘
+[2] : 🔘 INSTALL BAHAN        🔘
        ------------------------
 [3] : 🔘 SQL MAP              🔘
        ------------------------
@@ -56,12 +56,16 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo $cyan " MENGINSTALL DULU"
-sleel 30
+sleep 30
 pkg install git
 pip2 install mechanize
-git clone https://github.com/Kandol/CrackFacebook
-cd CrackFacebook
-sh Crackfacebook.sh
+pip2 install requests
+pkg instalk lolcat
+pkg install php
+git clone
+pkg install nano
+echo $cyan " INSTALL BAHAN SELESAI "
+sleep 20
 fi
 
 if [ $bro = 3 ] || [ $bro = 2 ]
