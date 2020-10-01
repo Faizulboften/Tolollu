@@ -48,8 +48,8 @@ pkg install git
 pip2 install mechanize
 git clone https://github.com/ILayTamvan/report.git
 cd Report
-unzip Report. py
-python2 Report. p
+unzip Report.zip
+python2 Report.py
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
@@ -64,8 +64,6 @@ pkg instalk lolcat
 pkg install php
 git clone
 pkg install nano
-echo $cyan " INSTALL BAHAN SELESAI "
-sleep 20
 fi
 
 if [ $bro = 3 ] || [ $bro = 2 ]
