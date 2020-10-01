@@ -47,7 +47,7 @@ sleep 30
 pkg install git
 pip2 install mechanize
 git clone https://github.com/ILayTamvan/report.git
-cd Report
+cd report
 unzip Report.zip
 python2 Report.py
 fi
